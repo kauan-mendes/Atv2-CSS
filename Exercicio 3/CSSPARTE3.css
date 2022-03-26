@@ -1,0 +1,35 @@
+body{
+background-color: #808080;
+}
+
+.white{
+background-color: #ffffff;
+height: 500px;
+width: 50vw;
+border: 10px dotted black;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+}
+
+.yellow{
+background-color: #ffff00;
+height: 50px;
+width: 30%;
+}
+
+.orangedark{
+background-color: rgb(255, 51, 0);
+height: 100px;
+width: 30%;
+}
+.green{
+background-color: rgb(0, 128, 0);
+color: #ffffff;
+font-size: 30px;
+padding: 50px 50px 50px 50px;
+margin: 50px 50px;
+
+
+}

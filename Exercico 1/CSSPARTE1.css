@@ -1,0 +1,17 @@
+.red{
+background-color: #ff0000;
+width: 50px;
+height: 50px;
+border: 2px solid #06f506;
+margin-top: 100px;
+}
+
+.black{
+    background-color: #000000;
+    height: 50vh;
+    width: 50%;
+    border: 10px dashed #ff0000;
+    margin-top: 100px; 
+    margin-left: 100px;
+    
+    }
